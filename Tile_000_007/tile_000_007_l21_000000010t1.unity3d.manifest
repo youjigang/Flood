@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1506447373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8cf8c27073b16829e69d2b9c62c3b67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e80412e47114a4d18c3fef3568ad30e1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Tile_000_007_L21_000000010t1.prefab
+Dependencies: []
