@@ -1,0 +1,1688 @@
+{
+	"name": "Tile_1",
+	"url": "F:/**/Objtest/Tile_1/Tile_1.obj",
+	"radius": 554.204163,
+	"vertexCount": 2009,
+	"tileAccuracy": 0.006540943,
+	"x": 519.199646,
+	"y": 1446.865,
+	"z": 1462.7251,
+	"children": [
+		{
+			"name": "Tile_1_L12_0",
+			"url": "F:/**/Objtest/Tile_1/Tile_1_L12_0.obj",
+			"radius": 552.1494,
+			"vertexCount": 2114,
+			"tileAccuracy": 0.00693412637,
+			"x": 517.119141,
+			"y": 1446.865,
+			"z": 1461.495,
+			"children": [
+				{
+					"name": "Tile_1_L13_00",
+					"url": "F:/**/Objtest/Tile_1/Tile_1_L13_00.obj",
+					"radius": 551.917053,
+					"vertexCount": 2626,
+					"tileAccuracy": 0.00862079,
+					"x": 517.119141,
+					"y": 1446.865,
+					"z": 1460.73,
+					"children": [
+						{
+							"name": "Tile_1_L14_000",
+							"url": "F:/**/Objtest/Tile_1/Tile_1_L14_000.obj",
+							"radius": 553.870361,
+							"vertexCount": 4627,
+							"tileAccuracy": 0.0150828445,
+							"x": 517.119141,
+							"y": 1446.865,
+							"z": 1467.065,
+							"children": [
+								{
+									"name": "Tile_1_L15_0000t1",
+									"url": "F:/**/Objtest/Tile_1/Tile_1_L15_0000t1.obj",
+									"radius": 556.0462,
+									"vertexCount": 11890,
+									"tileAccuracy": 0.0384556428,
+									"x": 517.119141,
+									"y": 1446.865,
+									"z": 1473.885,
+									"children": [
+										{
+											"name": "Tile_1_L16_00000t3",
+											"url": "F:/**/Objtest/Tile_1/Tile_1_L16_00000t3.obj",
+											"radius": 395.777954,
+											"vertexCount": 31513,
+											"tileAccuracy": 0.201180816,
+											"x": 295.281677,
+											"y": 1446.865,
+											"z": 1462.21,
+											"children": [
+												{
+													"name": "Tile_1_L17_000000t3",
+													"url": "F:/**/Objtest/Tile_1/Tile_1_L17_000000t3.obj",
+													"radius": 198.828918,
+													"vertexCount": 30535,
+													"tileAccuracy": 0.7723939,
+													"x": 183.505646,
+													"y": 1307.63,
+													"z": 1379.44,
+													"children": [
+														{
+															"name": "Tile_1_L18_0000000t3",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000000t3.obj",
+															"radius": 95.0526047,
+															"vertexCount": 15483,
+															"tileAccuracy": 1.71366954,
+															"x": 127.617149,
+															"y": 1237.6001,
+															"z": 1324.845,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00000000",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000000.obj",
+																	"radius": 45.7504768,
+																	"vertexCount": 2339,
+																	"tileAccuracy": 1.117478,
+																	"x": 99.67315,
+																	"y": 1202.58008,
+																	"z": 1301.865,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000000000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000000000.obj",
+																			"radius": 45.6492233,
+																			"vertexCount": 3203,
+																			"tileAccuracy": 1.53705764,
+																			"x": 99.61065,
+																			"y": 1202.52,
+																			"z": 1301.77,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000010",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000010.obj",
+																	"radius": 51.69811,
+																	"vertexCount": 18237,
+																	"tileAccuracy": 6.823451,
+																	"x": 155.351,
+																	"y": 1202.58008,
+																	"z": 1330.55,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000000100",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000000100.obj",
+																			"radius": 51.6042976,
+																			"vertexCount": 51655,
+																			"tileAccuracy": 19.39727,
+																			"x": 155.351,
+																			"y": 1202.52,
+																			"z": 1330.58008,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000020",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000020.obj",
+																	"radius": 45.0379028,
+																	"vertexCount": 1157,
+																	"tileAccuracy": 0.5703967,
+																	"x": 99.67315,
+																	"y": 1272.405,
+																	"z": 1305.46,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000000200",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000000200.obj",
+																			"radius": 44.89746,
+																			"vertexCount": 1168,
+																			"tileAccuracy": 0.5794277,
+																			"x": 99.61065,
+																			"y": 1272.405,
+																			"z": 1305.46,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000030",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000030.obj",
+																	"radius": 48.4537125,
+																	"vertexCount": 11406,
+																	"tileAccuracy": 4.858243,
+																	"x": 155.351,
+																	"y": 1272.405,
+																	"z": 1322.14,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000000300",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000000300.obj",
+																			"radius": 48.2795868,
+																			"vertexCount": 29481,
+																			"tileAccuracy": 12.6478043,
+																			"x": 155.351,
+																			"y": 1272.405,
+																			"z": 1322.12,
+																			"children": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000010t3",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000010t3.obj",
+															"radius": 95.34077,
+															"vertexCount": 26017,
+															"tileAccuracy": 2.86219978,
+															"x": 238.8085,
+															"y": 1237.6001,
+															"z": 1366.115,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00000100",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000100.obj",
+																	"radius": 49.3005524,
+																	"vertexCount": 13424,
+																	"tileAccuracy": 5.523042,
+																	"x": 210.9895,
+																	"y": 1202.58008,
+																	"z": 1358.335,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000001000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000001000.obj",
+																			"radius": 49.2050552,
+																			"vertexCount": 33682,
+																			"tileAccuracy": 13.911643,
+																			"x": 210.9895,
+																			"y": 1202.52,
+																			"z": 1358.34009,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000110",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000110.obj",
+																	"radius": 49.5210533,
+																	"vertexCount": 14344,
+																	"tileAccuracy": 5.84912,
+																	"x": 266.628,
+																	"y": 1202.58008,
+																	"z": 1377.03,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000001100",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000001100.obj",
+																			"radius": 49.3492851,
+																			"vertexCount": 37389,
+																			"tileAccuracy": 15.3526068,
+																			"x": 266.628,
+																			"y": 1202.52,
+																			"z": 1377.0,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000120",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000120.obj",
+																	"radius": 50.8149223,
+																	"vertexCount": 15165,
+																	"tileAccuracy": 5.872998,
+																	"x": 210.9895,
+																	"y": 1272.405,
+																	"z": 1357.845,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000001200",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000001200.obj",
+																			"radius": 50.6817245,
+																			"vertexCount": 35291,
+																			"tileAccuracy": 13.739192,
+																			"x": 210.9895,
+																			"y": 1272.405,
+																			"z": 1357.86011,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000130",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000130.obj",
+																	"radius": 48.8188553,
+																	"vertexCount": 12064,
+																	"tileAccuracy": 5.06193,
+																	"x": 266.628,
+																	"y": 1272.405,
+																	"z": 1376.16,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000001300",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000001300.obj",
+																			"radius": 48.63007,
+																			"vertexCount": 29163,
+																			"tileAccuracy": 12.3316851,
+																			"x": 266.628,
+																			"y": 1272.405,
+																			"z": 1376.23,
+																			"children": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000020t3",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000020t3.obj",
+															"radius": 95.18048,
+															"vertexCount": 11222,
+															"tileAccuracy": 1.23872375,
+															"x": 127.617149,
+															"y": 1377.08008,
+															"z": 1334.005,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00000200",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000200.obj",
+																	"radius": 45.0837135,
+																	"vertexCount": 1682,
+																	"tileAccuracy": 0.8275355,
+																	"x": 99.67315,
+																	"y": 1342.19,
+																	"z": 1306.7,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000002000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000002000.obj",
+																			"radius": 44.94641,
+																			"vertexCount": 1849,
+																			"tileAccuracy": 0.915265,
+																			"x": 99.61065,
+																			"y": 1342.185,
+																			"z": 1306.685,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000210",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000210.obj",
+																	"radius": 53.9677238,
+																	"vertexCount": 13660,
+																	"tileAccuracy": 4.69010448,
+																	"x": 155.351,
+																	"y": 1342.19,
+																	"z": 1333.8,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000002100",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000002100.obj",
+																			"radius": 53.79372,
+																			"vertexCount": 34071,
+																			"tileAccuracy": 11.7739372,
+																			"x": 155.351,
+																			"y": 1342.185,
+																			"z": 1333.77,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000220",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000220.obj",
+																	"radius": 45.130497,
+																	"vertexCount": 2305,
+																	"tileAccuracy": 1.13169837,
+																	"x": 99.67315,
+																	"y": 1411.97,
+																	"z": 1307.56,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000002200",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000002200.obj",
+																			"radius": 44.9985275,
+																			"vertexCount": 3164,
+																			"tileAccuracy": 1.56257141,
+																			"x": 99.61065,
+																			"y": 1411.97,
+																			"z": 1307.565,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000230",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000230.obj",
+																	"radius": 54.5014458,
+																	"vertexCount": 7511,
+																	"tileAccuracy": 2.52860928,
+																	"x": 155.351,
+																	"y": 1411.97,
+																	"z": 1333.645,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000002300",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000002300.obj",
+																			"radius": 54.32584,
+																			"vertexCount": 14534,
+																			"tileAccuracy": 4.924615,
+																			"x": 155.351,
+																			"y": 1411.97,
+																			"z": 1333.585,
+																			"children": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000030t4",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000030t4.obj",
+															"radius": 113.579193,
+															"vertexCount": 20814,
+															"tileAccuracy": 1.61345923,
+															"x": 238.8085,
+															"y": 1377.08008,
+															"z": 1395.83008,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00000300",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000300.obj",
+																	"radius": 58.8549843,
+																	"vertexCount": 6369,
+																	"tileAccuracy": 1.83867407,
+																	"x": 214.8105,
+																	"y": 1411.97,
+																	"z": 1361.69507,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000003000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000003000.obj",
+																			"radius": 58.5729752,
+																			"vertexCount": 13448,
+																			"tileAccuracy": 3.919793,
+																			"x": 214.689,
+																			"y": 1411.97,
+																			"z": 1361.70508,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000310",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000310.obj",
+																	"radius": 50.4775429,
+																	"vertexCount": 6746,
+																	"tileAccuracy": 2.64758515,
+																	"x": 258.966,
+																	"y": 1357.55493,
+																	"z": 1416.175,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000003100",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000003100.obj",
+																			"radius": 50.2111778,
+																			"vertexCount": 15060,
+																			"tileAccuracy": 5.973435,
+																			"x": 258.962,
+																			"y": 1357.65991,
+																			"z": 1416.19507,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000320",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000320.obj",
+																	"radius": 61.50522,
+																	"vertexCount": 9931,
+																	"tileAccuracy": 2.62524033,
+																	"x": 253.7395,
+																	"y": 1416.78491,
+																	"z": 1430.44507,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000003200",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000003200.obj",
+																			"radius": 61.3150368,
+																			"vertexCount": 19417,
+																			"tileAccuracy": 5.16473627,
+																			"x": 253.722992,
+																			"y": 1416.78491,
+																			"z": 1430.47,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000330",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000330.obj",
+																	"radius": 54.871418,
+																	"vertexCount": 11979,
+																	"tileAccuracy": 3.978581,
+																	"x": 210.9895,
+																	"y": 1342.19,
+																	"z": 1365.075,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000003300",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000003300.obj",
+																			"radius": 54.6758957,
+																			"vertexCount": 30141,
+																			"tileAccuracy": 10.0824442,
+																			"x": 210.9895,
+																			"y": 1342.185,
+																			"z": 1365.04492,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00000340",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00000340.obj",
+																	"radius": 45.2384834,
+																	"vertexCount": 7576,
+																	"tileAccuracy": 3.70189333,
+																	"x": 266.628,
+																	"y": 1341.15,
+																	"z": 1386.72,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000003400",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000003400.obj",
+																			"radius": 44.9950371,
+																			"vertexCount": 17704,
+																			"tileAccuracy": 8.744645,
+																			"x": 266.628,
+																			"y": 1341.07007,
+																			"z": 1386.66992,
+																			"children": []
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"name": "Tile_1_L17_000010t3",
+													"url": "F:/**/Objtest/Tile_1/Tile_1_L17_000010t3.obj",
+													"radius": 208.098083,
+													"vertexCount": 31738,
+													"tileAccuracy": 0.732897758,
+													"x": 405.723022,
+													"y": 1307.63,
+													"z": 1481.495,
+													"children": [
+														{
+															"name": "Tile_1_L18_0000100t3",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000100t3.obj",
+															"radius": 95.7489243,
+															"vertexCount": 21029,
+															"tileAccuracy": 2.293775,
+															"x": 350.085,
+															"y": 1237.6001,
+															"z": 1409.45,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00001000",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001000.obj",
+																	"radius": 47.4031868,
+																	"vertexCount": 12685,
+																	"tileAccuracy": 5.64514875,
+																	"x": 322.266,
+																	"y": 1202.58008,
+																	"z": 1391.30493,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000010000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000010000.obj",
+																			"radius": 47.28472,
+																			"vertexCount": 32940,
+																			"tileAccuracy": 14.732686,
+																			"x": 322.266,
+																			"y": 1202.52,
+																			"z": 1391.295,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001010",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001010.obj",
+																	"radius": 48.6027222,
+																	"vertexCount": 10545,
+																	"tileAccuracy": 4.46401262,
+																	"x": 377.904,
+																	"y": 1202.58008,
+																	"z": 1406.94,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000010100",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000010100.obj",
+																			"radius": 48.34461,
+																			"vertexCount": 26051,
+																			"tileAccuracy": 11.1462383,
+																			"x": 377.904,
+																			"y": 1202.52,
+																			"z": 1406.6,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001020",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001020.obj",
+																	"radius": 48.4760361,
+																	"vertexCount": 11452,
+																	"tileAccuracy": 4.873345,
+																	"x": 322.266,
+																	"y": 1272.405,
+																	"z": 1404.62,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000010200",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000010200.obj",
+																			"radius": 48.2814522,
+																			"vertexCount": 27848,
+																			"tileAccuracy": 11.9462986,
+																			"x": 322.266,
+																			"y": 1272.405,
+																			"z": 1404.585,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001030",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001030.obj",
+																	"radius": 49.12939,
+																	"vertexCount": 9529,
+																	"tileAccuracy": 3.94788575,
+																	"x": 377.904,
+																	"y": 1272.405,
+																	"z": 1422.465,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000010300",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000010300.obj",
+																			"radius": 48.8846359,
+																			"vertexCount": 23358,
+																			"tileAccuracy": 9.774418,
+																			"x": 377.904,
+																			"y": 1272.405,
+																			"z": 1422.415,
+																			"children": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000110t3",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000110t3.obj",
+															"radius": 103.61911,
+															"vertexCount": 17075,
+															"tileAccuracy": 1.59030712,
+															"x": 461.361023,
+															"y": 1237.6001,
+															"z": 1447.27,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00001100",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001100.obj",
+																	"radius": 51.54383,
+																	"vertexCount": 10403,
+																	"tileAccuracy": 3.915662,
+																	"x": 433.542,
+																	"y": 1202.58008,
+																	"z": 1420.935,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000011000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000011000.obj",
+																			"radius": 51.38609,
+																			"vertexCount": 26250,
+																			"tileAccuracy": 9.941185,
+																			"x": 433.542,
+																			"y": 1202.52,
+																			"z": 1420.835,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001110",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001110.obj",
+																	"radius": 51.3669128,
+																	"vertexCount": 8324,
+																	"tileAccuracy": 3.1547513,
+																	"x": 489.18,
+																	"y": 1202.58008,
+																	"z": 1442.17,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000011100",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000011100.obj",
+																			"radius": 51.21175,
+																			"vertexCount": 20318,
+																			"tileAccuracy": 7.74714565,
+																			"x": 489.18,
+																			"y": 1202.52,
+																			"z": 1442.075,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001120",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001120.obj",
+																	"radius": 51.079998,
+																	"vertexCount": 8692,
+																	"tileAccuracy": 3.33133245,
+																	"x": 433.542,
+																	"y": 1272.405,
+																	"z": 1447.84009,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000011200",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000011200.obj",
+																			"radius": 50.8957825,
+																			"vertexCount": 20646,
+																			"tileAccuracy": 7.97025728,
+																			"x": 433.542,
+																			"y": 1272.405,
+																			"z": 1447.78491,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001130",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001130.obj",
+																	"radius": 52.3803177,
+																	"vertexCount": 7237,
+																	"tileAccuracy": 2.63768125,
+																	"x": 489.18,
+																	"y": 1272.405,
+																	"z": 1471.915,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000011300",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000011300.obj",
+																			"radius": 52.1799736,
+																			"vertexCount": 16811,
+																			"tileAccuracy": 6.174273,
+																			"x": 489.18,
+																			"y": 1272.405,
+																			"z": 1472.005,
+																			"children": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000120t5",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000120t5.obj",
+															"radius": 118.985687,
+															"vertexCount": 23125,
+															"tileAccuracy": 1.633399,
+															"x": 350.085,
+															"y": 1377.08008,
+															"z": 1465.57007,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00001200",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001200.obj",
+																	"radius": 51.4746475,
+																	"vertexCount": 7251,
+																	"tileAccuracy": 2.736599,
+																	"x": 325.6325,
+																	"y": 1411.97,
+																	"z": 1445.815,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000012000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000012000.obj",
+																			"radius": 51.2921448,
+																			"vertexCount": 14088,
+																			"tileAccuracy": 5.354854,
+																			"x": 325.6355,
+																			"y": 1411.97,
+																			"z": 1445.76,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001210",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001210.obj",
+																	"radius": 44.43886,
+																	"vertexCount": 6539,
+																	"tileAccuracy": 3.31120062,
+																	"x": 323.1725,
+																	"y": 1417.75,
+																	"z": 1485.335,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000012100",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000012100.obj",
+																			"radius": 44.23531,
+																			"vertexCount": 8544,
+																			"tileAccuracy": 4.366396,
+																			"x": 323.16748,
+																			"y": 1417.725,
+																			"z": 1485.31,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001220",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001220.obj",
+																	"radius": 58.0291061,
+																	"vertexCount": 12518,
+																	"tileAccuracy": 3.71743321,
+																	"x": 322.266,
+																	"y": 1342.19,
+																	"z": 1424.62,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000012200",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000012200.obj",
+																			"radius": 57.8455353,
+																			"vertexCount": 28887,
+																			"tileAccuracy": 8.63302,
+																			"x": 322.266,
+																			"y": 1342.185,
+																			"z": 1424.605,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001230",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001230.obj",
+																	"radius": 50.1350975,
+																	"vertexCount": 8546,
+																	"tileAccuracy": 3.400002,
+																	"x": 377.904,
+																	"y": 1342.19,
+																	"z": 1444.315,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000012300",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000012300.obj",
+																			"radius": 49.91347,
+																			"vertexCount": 19248,
+																			"tileAccuracy": 7.72591734,
+																			"x": 377.904,
+																			"y": 1342.185,
+																			"z": 1444.34,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001240",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001240.obj",
+																	"radius": 41.8706551,
+																	"vertexCount": 5509,
+																	"tileAccuracy": 3.14234066,
+																	"x": 377.904,
+																	"y": 1367.89,
+																	"z": 1482.84,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000012400",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000012400.obj",
+																			"radius": 41.656456,
+																			"vertexCount": 11025,
+																			"tileAccuracy": 6.35351372,
+																			"x": 377.904,
+																			"y": 1367.895,
+																			"z": 1482.855,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001250",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001250.obj",
+																	"radius": 54.2454262,
+																	"vertexCount": 11599,
+																	"tileAccuracy": 3.94179749,
+																	"x": 377.904,
+																	"y": 1420.29492,
+																	"z": 1505.14,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000012500",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000012500.obj",
+																			"radius": 54.023632,
+																			"vertexCount": 12336,
+																			"tileAccuracy": 4.22675228,
+																			"x": 377.904,
+																			"y": 1420.29492,
+																			"z": 1505.1,
+																			"children": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000130t3",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000130t3.obj",
+															"radius": 115.3694,
+															"vertexCount": 14525,
+															"tileAccuracy": 1.09127665,
+															"x": 461.361023,
+															"y": 1377.08008,
+															"z": 1513.815,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00001300",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001300.obj",
+																	"radius": 86.485405,
+																	"vertexCount": 14725,
+																	"tileAccuracy": 1.96865523,
+																	"x": 461.361023,
+																	"y": 1391.42993,
+																	"z": 1550.13989,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000013000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000013000.obj",
+																			"radius": 86.24753,
+																			"vertexCount": 14724,
+																			"tileAccuracy": 1.97939515,
+																			"x": 461.361023,
+																			"y": 1391.465,
+																			"z": 1550.13,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001310",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001310.obj",
+																	"radius": 52.27085,
+																	"vertexCount": 7506,
+																	"tileAccuracy": 2.74719453,
+																	"x": 489.18,
+																	"y": 1345.385,
+																	"z": 1493.40991,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000013100",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000013100.obj",
+																			"radius": 52.027462,
+																			"vertexCount": 13394,
+																			"tileAccuracy": 4.94817448,
+																			"x": 489.18,
+																			"y": 1345.33008,
+																			"z": 1493.405,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001320",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001320.obj",
+																	"radius": 49.5237846,
+																	"vertexCount": 7096,
+																	"tileAccuracy": 2.89325,
+																	"x": 433.542,
+																	"y": 1334.23,
+																	"z": 1472.16992,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000013200",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000013200.obj",
+																			"radius": 49.248893700000007,
+																			"vertexCount": 15652,
+																			"tileAccuracy": 6.453226,
+																			"x": 433.542,
+																			"y": 1334.23,
+																			"z": 1472.04492,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00001330",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00001330.obj",
+																	"radius": 43.19803,
+																	"vertexCount": 6848,
+																	"tileAccuracy": 3.669745,
+																	"x": 433.542,
+																	"y": 1387.58008,
+																	"z": 1496.04492,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000013300",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000013300.obj",
+																			"radius": 43.00155,
+																			"vertexCount": 9814,
+																			"tileAccuracy": 5.30735159,
+																			"x": 433.542,
+																			"y": 1387.57007,
+																			"z": 1495.99,
+																			"children": []
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"name": "Tile_1_L17_000020t3",
+													"url": "F:/**/Objtest/Tile_1/Tile_1_L17_000020t3.obj",
+													"radius": 205.071289,
+													"vertexCount": 16651,
+													"tileAccuracy": 0.3959411,
+													"x": 183.505646,
+													"y": 1586.095,
+													"z": 1403.015,
+													"children": [
+														{
+															"name": "Tile_1_L18_0000200t2",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000200t2.obj",
+															"radius": 99.3135,
+															"vertexCount": 9834,
+															"tileAccuracy": 0.9970424,
+															"x": 127.617149,
+															"y": 1516.645,
+															"z": 1345.935,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00002000",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00002000.obj",
+																	"radius": 73.78015,
+																	"vertexCount": 16000,
+																	"tileAccuracy": 2.93927956,
+																	"x": 127.492149,
+																	"y": 1551.54,
+																	"z": 1354.815,
+																	"children": []
+																},
+																{
+																	"name": "Tile_1_L19_00002010",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00002010.obj",
+																	"radius": 47.0073929,
+																	"vertexCount": 3903,
+																	"tileAccuracy": 1.76630712,
+																	"x": 99.67315,
+																	"y": 1481.755,
+																	"z": 1317.89,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000020100",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000020100.obj",
+																			"radius": 46.8656235,
+																			"vertexCount": 5922,
+																			"tileAccuracy": 2.69624662,
+																			"x": 99.61065,
+																			"y": 1481.755,
+																			"z": 1317.865,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00002020",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00002020.obj",
+																	"radius": 54.8572426,
+																	"vertexCount": 9161,
+																	"tileAccuracy": 3.04421234,
+																	"x": 155.351,
+																	"y": 1481.755,
+																	"z": 1335.225,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000020200",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000020200.obj",
+																			"radius": 54.60125,
+																			"vertexCount": 13715,
+																			"tileAccuracy": 4.60034752,
+																			"x": 155.351,
+																			"y": 1481.755,
+																			"z": 1335.03491,
+																			"children": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000210t3",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000210t3.obj",
+															"radius": 120.07222,
+															"vertexCount": 17602,
+															"tileAccuracy": 1.22089112,
+															"x": 238.8085,
+															"y": 1516.645,
+															"z": 1402.515,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00002100",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00002100.obj",
+																	"radius": 69.42777,
+																	"vertexCount": 17280,
+																	"tileAccuracy": 3.58490181,
+																	"x": 227.239014,
+																	"y": 1481.755,
+																	"z": 1363.55,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000021000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000021000.obj",
+																			"radius": 69.20249,
+																			"vertexCount": 22669,
+																			"tileAccuracy": 4.733571,
+																			"x": 227.204987,
+																			"y": 1481.755,
+																			"z": 1363.52,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00002110",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00002110.obj",
+																	"radius": 51.9330063,
+																	"vertexCount": 9313,
+																	"tileAccuracy": 3.45304847,
+																	"x": 216.073,
+																	"y": 1551.54,
+																	"z": 1384.755,
+																	"children": []
+																},
+																{
+																	"name": "Tile_1_L19_00002120",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00002120.obj",
+																	"radius": 48.8610039,
+																	"vertexCount": 9147,
+																	"tileAccuracy": 3.83136845,
+																	"x": 271.276,
+																	"y": 1481.755,
+																	"z": 1427.88,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000021200",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000021200.obj",
+																			"radius": 48.615406,
+																			"vertexCount": 9887,
+																			"tileAccuracy": 4.18327761,
+																			"x": 271.3795,
+																			"y": 1481.755,
+																			"z": 1427.915,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00002130",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00002130.obj",
+																	"radius": 72.1065,
+																	"vertexCount": 19155,
+																	"tileAccuracy": 3.68411636,
+																	"x": 245.4075,
+																	"y": 1551.54,
+																	"z": 1442.49,
+																	"children": []
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000220t1",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000220t1.obj",
+															"radius": 97.98327,
+															"vertexCount": 5754,
+															"tileAccuracy": 0.59933,
+															"x": 127.617149,
+															"y": 1656.13,
+															"z": 1383.935,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00002200",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00002200.obj",
+																	"radius": 70.01946,
+																	"vertexCount": 12464,
+																	"tileAccuracy": 2.54225969,
+																	"x": 127.492149,
+																	"y": 1621.325,
+																	"z": 1368.09,
+																	"children": []
+																},
+																{
+																	"name": "Tile_1_L19_00002210",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00002210.obj",
+																	"radius": 76.3905,
+																	"vertexCount": 6451,
+																	"tileAccuracy": 1.1054734,
+																	"x": 127.492149,
+																	"y": 1691.1499,
+																	"z": 1384.52,
+																	"children": []
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000230t1",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000230t1.obj",
+															"radius": 111.0785,
+															"vertexCount": 4558,
+															"tileAccuracy": 0.369414836,
+															"x": 238.8085,
+															"y": 1656.13,
+															"z": 1436.8,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00002300",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00002300.obj",
+																	"radius": 90.79152,
+																	"vertexCount": 12585,
+																	"tileAccuracy": 1.52673149,
+																	"x": 238.8085,
+																	"y": 1621.325,
+																	"z": 1434.415,
+																	"children": []
+																},
+																{
+																	"name": "Tile_1_L19_00002310",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00002310.obj",
+																	"radius": 89.43744,
+																	"vertexCount": 2556,
+																	"tileAccuracy": 0.319537729,
+																	"x": 238.8085,
+																	"y": 1691.1499,
+																	"z": 1441.54492,
+																	"children": []
+																}
+															]
+														}
+													]
+												},
+												{
+													"name": "Tile_1_L17_000030t3",
+													"url": "F:/**/Objtest/Tile_1/Tile_1_L17_000030t3.obj",
+													"radius": 207.232986,
+													"vertexCount": 7311,
+													"tileAccuracy": 0.170238987,
+													"x": 405.723022,
+													"y": 1583.155,
+													"z": 1525.3999,
+													"children": [
+														{
+															"name": "Tile_1_L18_0000300t3",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000300t3.obj",
+															"radius": 112.386665,
+															"vertexCount": 11435,
+															"tileAccuracy": 0.905329347,
+															"x": 350.085,
+															"y": 1515.3,
+															"z": 1487.82,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00003000",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00003000.obj",
+																	"radius": 56.67735,
+																	"vertexCount": 8045,
+																	"tileAccuracy": 2.504419,
+																	"x": 323.276,
+																	"y": 1481.08008,
+																	"z": 1453.82007,
+																	"children": []
+																},
+																{
+																	"name": "Tile_1_L19_00003010",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00003010.obj",
+																	"radius": 61.0489044,
+																	"vertexCount": 9187,
+																	"tileAccuracy": 2.46500587,
+																	"x": 333.6745,
+																	"y": 1549.52,
+																	"z": 1456.84009,
+																	"children": []
+																},
+																{
+																	"name": "Tile_1_L19_00003020",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00003020.obj",
+																	"radius": 60.76931,
+																	"vertexCount": 10028,
+																	"tileAccuracy": 2.71547437,
+																	"x": 369.4295,
+																	"y": 1481.08008,
+																	"z": 1521.845,
+																	"children": []
+																},
+																{
+																	"name": "Tile_1_L19_00003030",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00003030.obj",
+																	"radius": 65.98866,
+																	"vertexCount": 7065,
+																	"tileAccuracy": 1.62245822,
+																	"x": 358.989,
+																	"y": 1549.52,
+																	"z": 1518.615,
+																	"children": []
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000310",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000310.obj",
+															"radius": 105.275375,
+															"vertexCount": 3420,
+															"tileAccuracy": 0.308583349,
+															"x": 461.361023,
+															"y": 1515.3,
+															"z": 1576.29,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00003100",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00003100.obj",
+																	"radius": 104.87661,
+																	"vertexCount": 10580,
+																	"tileAccuracy": 0.9618966,
+																	"x": 461.361023,
+																	"y": 1515.3,
+																	"z": 1576.37012,
+																	"children": []
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000320",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000320.obj",
+															"radius": 99.51606,
+															"vertexCount": 1114,
+															"tileAccuracy": 0.112486094,
+															"x": 339.427979,
+															"y": 1651.80493,
+															"z": 1533.16992,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00003200",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00003200.obj",
+																	"radius": 99.29782,
+																	"vertexCount": 3862,
+																	"tileAccuracy": 0.391681284,
+																	"x": 339.427979,
+																	"y": 1651.715,
+																	"z": 1533.84009,
+																	"children": []
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0000330",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0000330.obj",
+															"radius": 65.9354,
+															"vertexCount": 279,
+															"tileAccuracy": 0.06417515,
+															"x": 428.632019,
+															"y": 1614.465,
+															"z": 1573.70508,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00003300",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00003300.obj",
+																	"radius": 65.8986053,
+																	"vertexCount": 912,
+																	"tileAccuracy": 0.210011169,
+																	"x": 428.758,
+																	"y": 1614.85,
+																	"z": 1573.685,
+																	"children": []
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"name": "Tile_1_L16_00010t2",
+											"url": "F:/**/Objtest/Tile_1/Tile_1_L16_00010t2.obj",
+											"radius": 303.630371,
+											"vertexCount": 3590,
+											"tileAccuracy": 0.038940724,
+											"x": 738.529053,
+											"y": 1341.61,
+											"z": 1545.29,
+											"children": [
+												{
+													"name": "Tile_1_L17_000100t1",
+													"url": "F:/**/Objtest/Tile_1/Tile_1_L17_000100t1.obj",
+													"radius": 148.535645,
+													"vertexCount": 439,
+													"tileAccuracy": 0.0198977124,
+													"x": 850.305054,
+													"y": 1240.8501,
+													"z": 1593.975,
+													"children": [
+														{
+															"name": "Tile_1_L18_0001000",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0001000.obj",
+															"radius": 106.477859,
+															"vertexCount": 604,
+															"tileAccuracy": 0.05327437,
+															"x": 795.1895,
+															"y": 1240.775,
+															"z": 1582.615,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00010000",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00010000.obj",
+																	"radius": 106.317375,
+																	"vertexCount": 1361,
+																	"tileAccuracy": 0.120406419,
+																	"x": 795.1895,
+																	"y": 1240.78,
+																	"z": 1582.62,
+																	"children": []
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0001010",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0001010.obj",
+															"radius": 84.91027,
+															"vertexCount": 312,
+															"tileAccuracy": 0.0432747081,
+															"x": 906.194,
+															"y": 1213.265,
+															"z": 1614.065,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00010100",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00010100.obj",
+																	"radius": 84.74993,
+																	"vertexCount": 500,
+																	"tileAccuracy": 0.06961315,
+																	"x": 906.341,
+																	"y": 1213.21509,
+																	"z": 1614.04,
+																	"children": []
+																}
+															]
+														}
+													]
+												},
+												{
+													"name": "Tile_1_L17_000110t3",
+													"url": "F:/**/Objtest/Tile_1/Tile_1_L17_000110t3.obj",
+													"radius": 165.118713,
+													"vertexCount": 7634,
+													"tileAccuracy": 0.280000985,
+													"x": 628.275,
+													"y": 1255.6001,
+													"z": 1519.40991,
+													"children": [
+														{
+															"name": "Tile_1_L18_0001100t1",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0001100t1.obj",
+															"radius": 81.6720047,
+															"vertexCount": 8536,
+															"tileAccuracy": 1.27969944,
+															"x": 572.637,
+															"y": 1211.58008,
+															"z": 1476.135,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00011000",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00011000.obj",
+																	"radius": 60.2213745,
+																	"vertexCount": 9868,
+																	"tileAccuracy": 2.72099543,
+																	"x": 544.818,
+																	"y": 1211.45508,
+																	"z": 1466.70508,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000110000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000110000.obj",
+																			"radius": 60.10184,
+																			"vertexCount": 21969,
+																			"tileAccuracy": 6.0818367,
+																			"x": 544.818,
+																			"y": 1211.395,
+																			"z": 1466.69,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00011010",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00011010.obj",
+																	"radius": 58.00874,
+																	"vertexCount": 9347,
+																	"tileAccuracy": 2.77770019,
+																	"x": 600.456055,
+																	"y": 1211.45508,
+																	"z": 1490.29492,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000110100",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000110100.obj",
+																			"radius": 57.8505821,
+																			"vertexCount": 15225,
+																			"tileAccuracy": 4.549271,
+																			"x": 600.456055,
+																			"y": 1211.395,
+																			"z": 1490.315,
+																			"children": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0001110t1",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0001110t1.obj",
+															"radius": 85.58078,
+															"vertexCount": 6674,
+															"tileAccuracy": 0.911242,
+															"x": 572.637,
+															"y": 1299.03,
+															"z": 1520.91992,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00011100",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00011100.obj",
+																	"radius": 62.414856,
+																	"vertexCount": 10142,
+																	"tileAccuracy": 2.60344052,
+																	"x": 544.818,
+																	"y": 1299.03,
+																	"z": 1508.29492,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000111000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000111000.obj",
+																			"radius": 62.188282,
+																			"vertexCount": 14200,
+																			"tileAccuracy": 3.671734,
+																			"x": 544.818,
+																			"y": 1299.035,
+																			"z": 1508.26489,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00011110",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00011110.obj",
+																	"radius": 63.71297,
+																	"vertexCount": 7272,
+																	"tileAccuracy": 1.79142308,
+																	"x": 600.456055,
+																	"y": 1299.03,
+																	"z": 1531.13,
+																	"children": []
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0001120",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0001120.obj",
+															"radius": 79.39752,
+															"vertexCount": 1328,
+															"tileAccuracy": 0.210661024,
+															"x": 683.913,
+															"y": 1211.58008,
+															"z": 1524.56,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00011200",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00011200.obj",
+																	"radius": 79.03784,
+																	"vertexCount": 3306,
+																	"tileAccuracy": 0.5292157,
+																	"x": 683.913,
+																	"y": 1211.45508,
+																	"z": 1524.42993,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000112000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000112000.obj",
+																			"radius": 78.8595,
+																			"vertexCount": 3634,
+																			"tileAccuracy": 0.5843552,
+																			"x": 683.913,
+																			"y": 1211.395,
+																			"z": 1524.4,
+																			"children": []
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0001130",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0001130.obj",
+															"radius": 83.76274,
+															"vertexCount": 511,
+															"tileAccuracy": 0.07283148,
+															"x": 683.913,
+															"y": 1299.03,
+															"z": 1558.635,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00011300",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00011300.obj",
+																	"radius": 83.36665,
+																	"vertexCount": 1452,
+																	"tileAccuracy": 0.2089209,
+																	"x": 683.913,
+																	"y": 1299.03,
+																	"z": 1558.61,
+																	"children": []
+																}
+															]
+														}
+													]
+												},
+												{
+													"name": "Tile_1_L17_000120t1",
+													"url": "F:/**/Objtest/Tile_1/Tile_1_L17_000120t1.obj",
+													"radius": 130.372162,
+													"vertexCount": 1648,
+													"tileAccuracy": 0.09695885,
+													"x": 591.7515,
+													"y": 1429.775,
+													"z": 1576.09009,
+													"children": [
+														{
+															"name": "Tile_1_L18_0001200t1",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0001200t1.obj",
+															"radius": 98.70617,
+															"vertexCount": 3245,
+															"tileAccuracy": 0.3330628,
+															"x": 592.455,
+															"y": 1386.57007,
+															"z": 1561.845,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00012000",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00012000.obj",
+																	"radius": 72.08031,
+																	"vertexCount": 8104,
+																	"tileAccuracy": 1.55979013,
+																	"x": 555.284546,
+																	"y": 1386.57007,
+																	"z": 1559.335,
+																	"children": [
+																		{
+																			"name": "Tile_1_L20_000120000",
+																			"url": "F:/**/Objtest/Tile_1/Tile_1_L20_000120000.obj",
+																			"radius": 71.88739,
+																			"vertexCount": 8088,
+																			"tileAccuracy": 1.565077,
+																			"x": 555.284546,
+																			"y": 1386.57007,
+																			"z": 1559.285,
+																			"children": []
+																		}
+																	]
+																},
+																{
+																	"name": "Tile_1_L19_00012010",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00012010.obj",
+																	"radius": 64.27879,
+																	"vertexCount": 1652,
+																	"tileAccuracy": 0.3998293,
+																	"x": 630.769043,
+																	"y": 1386.57007,
+																	"z": 1578.655,
+																	"children": []
+																}
+															]
+														},
+														{
+															"name": "Tile_1_L18_0001210",
+															"url": "F:/**/Objtest/Tile_1/Tile_1_L18_0001210.obj",
+															"radius": 69.73503,
+															"vertexCount": 286,
+															"tileAccuracy": 0.05881174,
+															"x": 560.4685,
+															"y": 1473.705,
+															"z": 1603.5,
+															"children": [
+																{
+																	"name": "Tile_1_L19_00012100",
+																	"url": "F:/**/Objtest/Tile_1/Tile_1_L19_00012100.obj",
+																	"radius": 69.5948257,
+																	"vertexCount": 773,
+																	"tileAccuracy": 0.159597322,
+																	"x": 560.717041,
+																	"y": 1473.885,
+																	"z": 1603.71,
+																	"children": []
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
